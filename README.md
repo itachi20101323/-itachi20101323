@@ -13,9 +13,10 @@ If you like my work, consider giving a ⭐ to my repositories.
 </div>
 <!-- ======================= FOOTER ======================= -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=500&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer"/>
 
 </div>
+
 ```
