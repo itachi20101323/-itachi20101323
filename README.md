@@ -1,3 +1,7 @@
+
+<img width="2172" height="724" alt="CARTNOVA Neon Script Glow" src="https://github.com/user-attachments/assets/6b83d66b-c371-403f-9115-0452ac182fdc" />
+
+
 <div align="center">
 
 <svg width="900" height="120" viewBox="0 0 900 120"
