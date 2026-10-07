@@ -4,7 +4,11 @@
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
+<div align="center">
 
+<img src="./cartnova.svg" width="900" alt="CARTNOVA Neon">
+
+</div>
 
   </defs>
 
