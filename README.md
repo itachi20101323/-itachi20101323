@@ -18,5 +18,5 @@ If you like my work, consider giving a ⭐ to my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer"/>
 
 </div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer&width=1200" width="100%"/>
 ```
