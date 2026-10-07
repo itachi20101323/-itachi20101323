@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=55&duration=900&pause=250&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=CARTNOVA;CARTNOVA+%F0%9F%9B%92;WELCOME+TO+CARTNOVA" alt="CARTNOVA Animation" />
+
+<br>
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=55&duration=1000&pause=300&color=7C3AED&center=true&vCenter=true&width=900&height=100&lines=CARTNOVA;CARTNOVA+%F0%9F%9B%92;WELCOME+TO+CARTNOVA" alt="CARTNOVA Animation" />
 
 <br>
