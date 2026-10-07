@@ -5,53 +5,6 @@
 
   <defs>
 
-    <filter id="purpleGlow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <filter id="blueGlow">
-      <feGaussianBlur stdDeviation="5"/>
-    </filter>
-
-    <filter id="goldGlow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <linearGradient id="gold">
-      <stop offset="0%" stop-color="#FFF3A3"/>
-      <stop offset="45%" stop-color="#FFD700"/>
-      <stop offset="100%" stop-color="#FF9D00"/>
-    </linearGradient>
-
-    <style>
-      .letter {
-        font-family: Orbitron, sans-serif;
-        font-size: 70px;
-        font-weight: 800;
-        text-anchor: middle;
-      }
-
-      .animate {
-        animation: glow 1.2s infinite alternate;
-      }
-
-      @keyframes glow {
-        from {
-          opacity: 0.65;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-    </style>
 
   </defs>
 
